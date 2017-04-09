@@ -1,0 +1,10 @@
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.Form1.resources
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.FormMise_a_jour.resources
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.Properties.Resources.resources
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.csproj.GenerateResource.Cache
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\bin\Debug\WindowsFormWeb.exe.config
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\bin\Debug\WindowsFormWeb.exe
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\bin\Debug\WindowsFormWeb.pdb
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.exe
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.pdb
+C:\Users\CompaQ\Desktop\TD WebService\WindowsFormWeb\obj\x86\Debug\WindowsFormWeb.csprojResolveAssemblyReference.cache
